@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0b3a83-a44e-48a8-9eac-38383344623d" name="Default Changelist" comment="initial version stockmedaily">
+    <list default="true" id="1a0b3a83-a44e-48a8-9eac-38383344623d" name="Default Changelist" comment="discord channel updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -40,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -55,7 +56,10 @@
       <option name="presentableId" value="Default" />
       <updated>1606461216895</updated>
       <workItem from="1606461218669" duration="4263000" />
-      <workItem from="1606473637186" duration="64000" />
+      <workItem from="1606473637186" duration="629000" />
+      <workItem from="1606639516483" duration="700000" />
+      <workItem from="1606807756590" duration="268000" />
+      <workItem from="1606828354240" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="initial version stockmedaily">
       <created>1606470232670</created>
@@ -64,7 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606470232670</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="navbar fix">
+      <created>1606473744567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606473744567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="logo updated">
+      <created>1606640008731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606640008732</updated>
+    </task>
+    <task id="LOCAL-00004" summary="discord channel updated">
+      <created>1606807819251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606807819251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,12 +109,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial version stockmedaily" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial version stockmedaily" />
+    <MESSAGE value="navbar fix" />
+    <MESSAGE value="logo updated" />
+    <MESSAGE value="discord channel updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="discord channel updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1606470234954">
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1606807821533">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1606470234954" />
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1606807821533" />
   </component>
 </project>
